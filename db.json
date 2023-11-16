@@ -1,5 +1,5 @@
 {
-    "blogCategories": [
+    "blogCategories": {
     {
       "blogCategoryName": "Modern",
       "image": "./imgs/blog-1.jpg",
@@ -28,7 +28,7 @@
     {
       "id": 6
     }
-  ],
-  "review": []
+},
+  "review": {}
 
 }
