@@ -41,64 +41,6 @@
       "id": 10
     }
   ],
-  "type": [
-    {
-      "name": "Qonaq otağı",
-      "image": "./imgs/di-livingroom.jpg",
-      "id": 1,
-      "navLink": "/design_ideas/livingroom",
-      "iconName": "fa-solid fa-couch"
-    },
-    {
-      "name": "Yemek otağı",
-      "image": "./imgs/di-diningroom.jpg",
-      "id": 2,
-      "navLink": "/design_ideas/diningroom",
-      "iconName": "fa-solid fa-kitchen-set"
-    },
-    {
-      "name": "Yataq otağı",
-      "image": "./imgs/di-bedroom.jpg",
-      "id": 3,
-      "navLink": "/design_ideas/bedroom",
-      "iconName": "fa-solid fa-bed"
-    },
-    {
-      "name": "Ofis",
-      "image": "./imgs/di-homeoffice.jpg",
-      "id": 4,
-      "navLink": "/design_ideas/officeroom",
-      "iconName": "fa-solid fa-hotel"
-    },
-    {
-      "name": "Kolidor",
-      "image": "./imgs//di-entryway.jpg",
-      "id": 5,
-      "navLink": "/design_ideas/entryway",
-      "iconName": "fa-solid fa-house"
-    },
-    {
-      "name": "Usaq otağı",
-      "image": "./imgs/di-childkidsroom.jpg",
-      "id": 6,
-      "navLink": "/design_ideas/childroom",
-      "iconName": "fa-solid fa-baby-carriage"
-    },
-    {
-      "name": "Mətbəx",
-      "image": "https://st.hzcdn.com/simgs/pictures/kitchens/san-jose-res-2-fiorella-design-img~dcc10c9e0b87465a_8-6206-1-ef267a8.jpg",
-      "navLink": "/design_ideas/kitchen",
-      "iconName": "fa-solid fa-fire-burner",
-      "id": 7
-    },
-    {
-      "name": "Digər",
-      "image": "https://st.hzcdn.com/simgs/pictures/home-gyms/75th-street-smiley-renovations-llc-img~ef71015d0f6a1e76_8-1558-1-51ca714.jpg",
-      "navLink": "/design_ideas/other",
-      "iconName": "fa-solid fa-fire-burner",
-      "id": 8
-    }
-  ],
   "contact": [
     {
       "username": "asdsadas",
@@ -161,6 +103,5 @@
     {
       "id": 6
     }
-  ],
-  "review": []
+  ]
 }
