@@ -1,0 +1,110 @@
+{
+
+  "style": [
+    {
+      "name": "Müasir",
+      "id": 1
+    },
+    {
+      "name": "Minimalist",
+      "id": 2
+    },
+    {
+      "name": "Orta əsr",
+      "id": 3
+    },
+    {
+      "name": "Rustik",
+      "id": 4
+    },
+    {
+      "name": "Eklektik",
+      "id": 5
+    },
+    {
+      "name": "Sahil üslub",
+      "id": 6
+    },
+    {
+      "name": "Sənayevi",
+      "id": 7
+    },
+    {
+      "name": "Ənənəvi",
+      "id": 8
+    },
+    {
+      "name": "Skandinavian",
+      "id": 9
+    },
+    {
+      "name": "Keçidli",
+      "id": 10
+    }
+  ],
+  "contact": [
+    {
+      "username": "asdsadas",
+      "id": 1
+    },
+    {
+      "username": "",
+      "id": 2
+    },
+    {
+      "username": "senanhuseynli52@gmail.com",
+      "id": 3
+    },
+    {
+      "username": "semedzade@gmail.com",
+      "id": 4
+    },
+    {
+      "username": "",
+      "id": 5
+    }
+  ],
+  "quiz": [],
+  "itemPolicy": [
+    {
+      "shipping_policy": "",
+      "return_policy": "",
+      "return_details": "",
+      "cancellation": "",
+      "damage_item": ""
+    }
+  ],
+  
+  "blogCategories": [
+    {
+      "blogCategoryName": "Modern",
+      "image": "./imgs/blog-1.jpg",
+      "id": 1
+    },
+    {
+      "blogCategoryName": "Home Stiller",
+      "image": "./imgs/blog-2.jpg",
+      "id": 2
+    },
+    {
+      "blogCategoryName": "Best of 2022",
+      "image": "./imgs/blog-3.jpg",
+      "id": 3
+    },
+    {
+      "blogCategoryName": "Best of 2021",
+      "image": "./imgs/blog-1.jpg",
+      "id": 4
+    },
+    {
+      "blogCategoryName": "Best of 2020",
+      "image": "./imgs/blog-2.jpg",
+      "id": 5
+    },
+    {
+      "id": 6
+    }
+  ],
+  test:[]
+  
+}
