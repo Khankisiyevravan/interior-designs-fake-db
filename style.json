@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Müasir",
+    "id": 1
+  },
+  {
+    "name": "Minimalist",
+    "id": 2
+  },
+  {
+    "name": "Orta əsr",
+    "id": 3
+  },
+  {
+    "name": "Rustik",
+    "id": 4
+  },
+  {
+    "name": "Eklektik",
+    "id": 5
+  },
+  {
+    "name": "Sahil üslub",
+    "id": 6
+  },
+  {
+    "name": "Sənayevi",
+    "id": 7
+  },
+  {
+    "name": "Ənənəvi",
+    "id": 8
+  },
+  {
+    "name": "Skandinavyan",
+    "id": 9
+  },
+  {
+    "name": "Keçidli",
+    "id": 10
+  }
+]
